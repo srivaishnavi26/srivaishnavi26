@@ -10,7 +10,7 @@ I am a dedicated software developer and data enthusiast with a strong focus on b
 **Education**:  
 - **B.Tech in Computer Science & Engineering (Data Science)**  
   Srinivasa Ramanujan Institute of Technology (SRIT), Andhra Pradesh  
-  Graduation Year: 2026 | CGPA: 9.36  
+  Graduation Year: 2026 | CGPA: 9.22  
 
 - **Diploma in Computer Engineering**  
   Government Polytechnic College for Women, Kadapa  
